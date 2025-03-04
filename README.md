@@ -1,1 +1,2 @@
-# faces_practise_for_trainig
+# Практика для трнировки работы с:
+###CSS + JS + HTML
